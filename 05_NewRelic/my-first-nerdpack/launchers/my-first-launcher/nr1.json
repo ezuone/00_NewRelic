@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "my-first-launcher",
+  "displayName": "MyFirstLauncher",
+  "description": "Hellow World",
+  "rootNerdletId": "6c1da6e6-6a7e-4e99-b44d-a494d82d95fd.my-first-nerdlet"
+}
