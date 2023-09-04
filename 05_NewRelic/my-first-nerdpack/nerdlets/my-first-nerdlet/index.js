@@ -8,6 +8,8 @@ export default class MyFirstNerdletNerdlet extends React.Component {
     //Testing comments
     //Testing comments II
     //Testing comments III
+      //Testing comments II
+    //Testing comments III
 
     print()
   }
